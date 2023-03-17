@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @geodesicPenguin
-- 👀 I’m interested in CODE
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on MORE THAN ONE THING
-- 📫 How to reach me NOT SURE YET
+Hey. 
+
+I do a ton of coding for animation. 
+Love Python but I like to mess around with other languages here and there. 
+
+
 
 <!---
 geodesicPenguin/geodesicPenguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

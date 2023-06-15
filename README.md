@@ -1,8 +1,7 @@
 Hey. 
 
-I do a ton of coding for animation. 
-Love Python but I like to mess around with other languages here and there. 
-
+I do lots of coding for animation, mostly Maya.
+Looking into Godot as a hobby.
 
 
 <!---
